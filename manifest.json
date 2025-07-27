@@ -1,0 +1,10 @@
+{
+  "Name": "Weed Mod",
+  "Author": "Aidan Birmingham",
+  "Version": "1.0.0",
+  "Description": "Weed mod for stardew valley",
+  "UniqueID": "aidanbirmingham.weedmod",
+  "EntryDll": "weedmod.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
