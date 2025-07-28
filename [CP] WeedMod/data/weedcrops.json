@@ -7,16 +7,21 @@
                 "{{ModId}}_IndicaSeeds": {
                     "Seasons": [ "spring", "summer" ],
 					"DaysInPhase": [ 3, 3, 3 ],
+                    "HarvestMinStack": 2,
+                    "HarvestMaxStack": 4,
 					"HarvestItemId": "IndicaBud",
 					"Texture": "assets/indicacrop"
                 },
                 "{{ModId}}_SativaSeeds": {
                     "Seasons": [ "spring", "summer" ],
 					"DaysInPhase": [ 3, 3, 3 ],
+                    "HarvestMinStack": 2,
+                    "HarvestMaxStack": 4,
 					"HarvestItemId": "SativaBud",
 					"Texture": "assets/sativacrop"
                 }
             }
 		}
+        
     ]
 }
