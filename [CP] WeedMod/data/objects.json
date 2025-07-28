@@ -94,9 +94,19 @@
                     "Texture": "assets/objects",
                     "SpriteIndex": 0
                 },
-                "PackedBong": {
-                    "Name": "PackedBong",
-                    "DisplayName": "Packed Bong",
+                "IndicaPackedBong": {
+                    "Name": "IndicaPackedBong",
+                    "DisplayName": "Indica Packed Bong",
+					"Type": "Flower",
+                    "Description": "TBD its Sativa Seeds",
+                    "Price": 85,
+                    "Edibility": 0,
+                    "Texture": "assets/objects",
+                    "SpriteIndex": 1
+                },
+                "SativaPackedBong": {
+                    "Name": "SativaPackedBong",
+                    "DisplayName": "Sativa Packed Bong",
 					"Type": "Flower",
                     "Description": "TBD its Sativa Seeds",
                     "Price": 85,
@@ -114,9 +124,19 @@
                     "Texture": "assets/objects",
                     "SpriteIndex": 2
                 },
-                "Joint": {
-                    "Name": "Joint",
-                    "DisplayName": "Joint",
+                "IndicaJoint": {
+                    "Name": "IndicaJoint",
+                    "DisplayName": "Indica Joint",
+					"Type": "Flower",
+                    "Description": "TBD its Sativa Seeds",
+                    "Price": 85,
+                    "Edibility": 0,
+                    "Texture": "assets/objects",
+                    "SpriteIndex": 3
+                },
+                "SativaJoint": {
+                    "Name": "SativaJoint",
+                    "DisplayName": " Sativa Joint",
 					"Type": "Flower",
                     "Description": "TBD its Sativa Seeds",
                     "Price": 85,
