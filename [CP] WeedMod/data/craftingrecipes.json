@@ -31,7 +31,20 @@
 			"Target": "Data/CraftingRecipes",
 			"Entries": {
 				"Bong": "338 1/Home/(O)Bong 1/true/",
-        "Joint": "338 1/Home/(O)Joint 1/true/"
+        "FilledBongA": "(O)Bong 1 (O)SativaBud/Home/(O)PackedBong 1/true/",
+        "FilledBongB": "(O)Bong 1 (O)IndicaBud/Home/(O)PackedBong 1/true/",
+        "PineappleExpressPackedBong": "(O)Bong 1 (O)PineappleExpress 1/Home/(O)PineappleExpressPackedBong 1/true/",
+        "BlueDreamPackedBong": "(O)Bong 1 (O)BlueDream 1/Home/(O)BlueDreamPackedBong 1/true/",
+        "GelatoPackedBong": "(O)Bong 1 (O)Gelato 1/Home/(O)GelatoPackedBong 1/true/",
+        "FlapjacksPackedBong": "(O)Bong 1 (O)Flapjacks 1/Home/(O)FlapjacksPackedBong 1/true/",
+        "TangiePackedBong": "(O)Bong 1 (O)Tangie 1/Home/(O)TangiePackedBong 1/true/",
+        "JointA": "(O)RollingPaper 1 (O)SativaBud/Home/(O)Joint 1/true/",
+        "JointB": "(O)RollingPaper 1 (O)IndicaBud/Home/(O)Joint 1/true/",
+        "PineappleExpressJoint": "(O)RollingPaper 1 (O)PineappleExpress 1/Home/(O)PineappleExpressJoint 1/true/",
+        "BlueDreamJoint": "(O)RollingPaper 1 (O)BlueDream 1/Home/(O)BlueDreamJoint 1/true/",
+        "GelatoJoint": "(O)RollingPaper 1 (O)Gelato 1/Home/(O)GelatoJoint 1/true/",
+        "FlapjacksJoint": "(O)RollingPaper 1 (O)Flapjacks 1/Home/(O)FlapjacksJoint 1/true/",
+        "TangieJoint": "(O)RollingPaper 1 (O)Tangie 1/Home/(O)TangieJoint 1/true/"
 			}
 		}
   ]
