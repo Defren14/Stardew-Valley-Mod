@@ -1,0 +1,240 @@
+{
+	"Changes": [
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"IndicaBud": {
+                    "Name": "IndicaBud",
+                    "DisplayName": "Indica Bud",
+					"Type": "Flower",
+                    "Description": "A cluster of cannabis, its herbal scent is somehow relaxing",
+                    "Price": 35,
+                    "Edibility": 0,
+                    "Texture": "assets/objects",
+                    "SpriteIndex": 6
+                },
+                "SativaBud": {
+                    "Name": "SativaBud",
+                    "DisplayName": "Sativa Bud",
+					"Type": "Flower",
+                    "Description": "A cluster of cannabis, its fragrant scent is inviting and invigorating",
+                    "Price": 35,
+                    "Edibility": 0,
+                    "Texture": "assets/objects",
+                    "SpriteIndex": 7
+                },
+                "IndicaSeeds": {
+                    "Name": "IndicaSeeds",
+                    "DisplayName": "Indica Seeds",
+					"Type": "Seed",
+                    "Description": "Mysterious seeds from Sebastian's room..could be grown into something calming?",
+                    "Price": 10,
+                    "Edibility": 0,
+                    "Texture": "assets/objects",
+                    "SpriteIndex": 4
+                },
+                "SativaSeeds": {
+                    "Name": "SativaSeeds",
+                    "DisplayName": "Sativa Seeds",
+					"Type": "Seed",
+                    "Description": "Mysterious seeds from Sebastian's room..could be grown into something energizing?",
+                    "Price": 10,
+                    "Edibility": 0,
+                    "Texture": "assets/objects",
+                    "SpriteIndex": 5
+                },
+                "PineappleExpress": {
+                    "Name": "PineappleExpress",
+                    "DisplayName": "Pineapple Express Bud",
+					"Type": "Flower",
+                    "Description": "TBD its Sativa Seeds",
+                    "Price": 100,
+                    "Edibility": 0,
+                    "Texture": "assets/objects",
+                    "SpriteIndex": 10
+                },
+                "BlueDream": {
+                    "Name": "BlueDream",
+                    "DisplayName": "Blue Dream Bud",
+					"Type": "Flower",
+                    "Description": "TBD its Sativa Seeds",
+                    "Price": 60,
+                    "Edibility": 0,
+                    "Texture": "assets/objects",
+                    "SpriteIndex": 12
+                },
+                "Gelato": {
+                    "Name": "Gelato",
+                    "DisplayName": "Gelato Bud",
+					"Type": "Flower",
+                    "Description": "TBD its Sativa Seeds",
+                    "Price": 80,
+                    "Edibility": 0,
+                    "Texture": "assets/objects",
+                    "SpriteIndex": 9
+                },
+                "Flapjacks": {
+                    "Name": "Flapjacks",
+                    "DisplayName": "Flapjacks Bud",
+					"Type": "Flower",
+                    "Description": "TBD its Sativa Seeds",
+                    "Price": 70,
+                    "Edibility": 0,
+                    "Texture": "assets/objects",
+                    "SpriteIndex": 8
+                },
+                "Bong": {
+                    "Name": "Bong",
+                    "DisplayName": "Bong",
+					"Type": "Flower",
+                    "Description": "TBD its Sativa Seeds",
+                    "Price": 85,
+                    "Edibility": 0,
+                    "Texture": "assets/objects",
+                    "SpriteIndex": 0
+                },
+                "PackedBong": {
+                    "Name": "PackedBong",
+                    "DisplayName": "Packed Bong",
+					"Type": "Flower",
+                    "Description": "TBD its Sativa Seeds",
+                    "Price": 85,
+                    "Edibility": 0,
+                    "Texture": "assets/objects",
+                    "SpriteIndex": 1
+                },
+                "RollingPaper": {
+                    "Name": "RollingPaper",
+                    "DisplayName": "Rolling Paper",
+					"Type": "Flower",
+                    "Description": "TBD its Sativa Seeds",
+                    "Price": 85,
+                    "Edibility": 0,
+                    "Texture": "assets/objects",
+                    "SpriteIndex": 2
+                },
+                "Joint": {
+                    "Name": "Joint",
+                    "DisplayName": "Joint",
+					"Type": "Flower",
+                    "Description": "TBD its Sativa Seeds",
+                    "Price": 85,
+                    "Edibility": 0,
+                    "Texture": "assets/objects",
+                    "SpriteIndex": 3
+                },
+                "BlueDreamPackedBong": {
+                    "Name": "BlueDreamPackedBong",
+                    "DisplayName": "Blue Dream Packed Bong",
+					"Type": "Flower",
+                    "Description": "TBD its Sativa Seeds",
+                    "Price": 85,
+                    "Edibility": 0,
+                    "Texture": "assets/objects",
+                    "SpriteIndex": 13
+                },
+                "FlapjacksPackedBong": {
+                    "Name": "FlapjacksPackedBong",
+                    "DisplayName": "Flapjacks Packed Bong",
+					"Type": "Flower",
+                    "Description": "TBD its Sativa Seeds",
+                    "Price": 85,
+                    "Edibility": 0,
+                    "Texture": "assets/objects",
+                    "SpriteIndex": 14
+                },
+                "GelatoPackedBong": {
+                    "Name": "GelatoPackedBong",
+                    "DisplayName": "Gelato Packed Bong",
+					"Type": "Flower",
+                    "Description": "TBD its Sativa Seeds",
+                    "Price": 85,
+                    "Edibility": 0,
+                    "Texture": "assets/objects",
+                    "SpriteIndex": 15
+                },
+                "PineappleExpressPackedBong": {
+                    "Name": "PineappleExpressPackedBong",
+                    "DisplayName": "Pineapple Express Packed Bong",
+					"Type": "Flower",
+                    "Description": "TBD its Sativa Seeds",
+                    "Price": 85,
+                    "Edibility": 0,
+                    "Texture": "assets/objects",
+                    "SpriteIndex": 16
+                },
+                "TangiePackedBong": {
+                    "Name": "TangiePackedBong",
+                    "DisplayName": "Tangie Packed Bong",
+					"Type": "Flower",
+                    "Description": "TBD its Sativa Seeds",
+                    "Price": 85,
+                    "Edibility": 0,
+                    "Texture": "assets/objects",
+                    "SpriteIndex": 17
+                },
+                "BlueDreamJoint": {
+                    "Name": "BlueDreamJoint",
+                    "DisplayName": "Blue Dream Joint",
+					"Type": "Flower",
+                    "Description": "TBD its Sativa Seeds",
+                    "Price": 85,
+                    "Edibility": 0,
+                    "Texture": "assets/objects",
+                    "SpriteIndex": 18
+                },
+                "FlapjacksJoint": {
+                    "Name": "FlapjacksJoint",
+                    "DisplayName": "Flapjacks Joint",
+					"Type": "Flower",
+                    "Description": "TBD its Sativa Seeds",
+                    "Price": 85,
+                    "Edibility": 0,
+                    "Texture": "assets/objects",
+                    "SpriteIndex": 19
+                },
+                "GelatoJoint": {
+                    "Name": "GelatoJoint",
+                    "DisplayName": "Gelato Joint",
+					"Type": "Flower",
+                    "Description": "TBD its Sativa Seeds",
+                    "Price": 85,
+                    "Edibility": 0,
+                    "Texture": "assets/objects",
+                    "SpriteIndex": 20
+                },
+                "PineappleExpressJoint": {
+                    "Name": "PineappleExpressJoint",
+                    "DisplayName": "Pineapple Express Joint",
+					"Type": "Flower",
+                    "Description": "TBD its Sativa Seeds",
+                    "Price": 85,
+                    "Edibility": 0,
+                    "Texture": "assets/objects",
+                    "SpriteIndex": 21
+                },
+                "TangieJoint": {
+                    "Name": "TangieJoint",
+                    "DisplayName": "Tangie Joint",
+					"Type": "Flower",
+                    "Description": "TBD its Sativa Seeds",
+                    "Price": 85,
+                    "Edibility": 0,
+                    "Texture": "assets/objects",
+                    "SpriteIndex": 22
+                },
+                "Tangie": {
+                    "Name": "Tangie",
+                    "DisplayName": "Tangie Bud",
+					"Type": "Flower",
+                    "Description": "TBD its Sativa Seeds",
+                    "Price": 85,
+                    "Edibility": 0,
+                    "Texture": "assets/objects",
+                    "SpriteIndex": 11
+                }
+            }
+        }
+    ]
+}

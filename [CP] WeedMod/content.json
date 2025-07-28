@@ -1,0 +1,46 @@
+{
+  "Format": "2.0.0",
+  "Changes": [
+    {
+      "Action": "Load",
+      "Target": "assets/objects",
+      "FromFile": "assets/object.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "assets/seeds",
+      "FromFile": "assets/seed.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "assets/crops",
+      "FromFile": "assets/crop_indica.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "assets/crops",
+      "FromFile": "assets/crop_sativa.png"
+    },
+    
+    {
+      "LogName": "Load Weed Crops Data",
+      "Action": "Include",
+      "FromFile": "data/weedcrops.json"
+    },
+    {
+      "LogName": "Load Weed Objects Data",
+      "Action": "Include",
+      "FromFile": "data/objects.json"
+    },
+    {
+      "LogName": "Load Recipes",
+      "Action": "Include",
+      "FromFile": "data/cookingrecipes.json"
+    },
+    {
+      "LogName": "Load Crafting Recipes",
+      "Action": "Include",
+      "FromFile": "data/craftingrecipes.json"
+    }
+  ]
+}

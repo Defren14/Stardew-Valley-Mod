@@ -1,0 +1,22 @@
+{
+	"Changes": [
+    {
+			"Action": "EditData",
+			"Target": "Data/Crops",
+            "Entries": {
+                "Indica": {
+                    "Seasons": [ "spring", "summer" ],
+					"DaysInPhase": [ 3, 3, 3 ],
+					"HarvestItemId": "Indica",
+					"Texture": "crop_indica.png"
+                },
+                "Sativa": {
+                    "Seasons": [ "spring", "summer" ],
+					"DaysInPhase": [ 3, 3, 3 ],
+					"HarvestItemId": "Sativa",
+					"Texture": "crop_sativa.png"
+                }
+            }
+		}
+    ]
+}

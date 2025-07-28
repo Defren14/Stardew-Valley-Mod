@@ -1,0 +1,44 @@
+{
+  "Changes": [
+    {
+      "LogName": "Create new fried egg cooking recipe",
+      "Action": "EditData",
+      "Target": "Data/CookingRecipes",
+      
+      "Entries": {
+		"{{ModId}}_PineappleExpress": "SativaBud 5 832 1/10 10/PineappleExpress 5/default/",
+        "{{ModId}}_BlueDream": "SativaBud 5 258 1/10 9/BlueDream 5/default/",
+        "{{ModId}}_Gelato": "IndicaBud 5 233 1/10 8/Gelato 5/default/",
+        "{{ModId}}_Flapjacks": "IndicaBud 5 211 1/10 7/Flapjacks 5/default/",
+        "{{ModId}}_Tangie": "SativaBud 5 635 1/10 6/Tangie 5/default/"
+      },
+      "When": {
+        "Hearts:Sebastian": "2,3,4,5,6,7,8,9,10,11,12,13"
+    },
+    "MoveEntries": [
+    {
+        "ID": "{{ModId}}_PineappleExpress",
+        "ToPosition": "Bottom"
+    },
+    {
+        "ID": "{{ModId}}_BlueDream",
+        "ToPosition": "Bottom"
+    },
+    {
+        "ID": "{{ModId}}_Gelato",
+        "ToPosition": "Bottom"
+    },
+    {
+        "ID": "{{ModId}}_Flapjacks",
+        "ToPosition": "Bottom"
+    },
+    {
+        "ID": "{{ModId}}_Tangie",
+        "ToPosition": "Bottom"
+    }
+
+  ]
+
+    }
+  ]
+}
