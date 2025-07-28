@@ -4,22 +4,17 @@
     {
       "Action": "Load",
       "Target": "assets/objects",
-      "FromFile": "assets/object.png"
+      "FromFile": "assets/objects.png"
     },
     {
       "Action": "Load",
-      "Target": "assets/seeds",
-      "FromFile": "assets/seed.png"
+      "Target": "assets/indicacrop",
+      "FromFile": "assets/indicacrop.png"
     },
     {
       "Action": "Load",
-      "Target": "assets/crops",
-      "FromFile": "assets/crop_indica.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "assets/crops",
-      "FromFile": "assets/crop_sativa.png"
+      "Target": "assets/sativacrop",
+      "FromFile": "assets/sativacrop.png"
     },
     
     {

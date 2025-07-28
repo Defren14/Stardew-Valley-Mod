@@ -4,17 +4,17 @@
 			"Action": "EditData",
 			"Target": "Data/Crops",
             "Entries": {
-                "Indica": {
+                "{{ModId}}_IndicaSeeds": {
                     "Seasons": [ "spring", "summer" ],
 					"DaysInPhase": [ 3, 3, 3 ],
-					"HarvestItemId": "Indica",
-					"Texture": "crop_indica.png"
+					"HarvestItemId": "IndicaBud",
+					"Texture": "assets/indicacrop"
                 },
-                "Sativa": {
+                "{{ModId}}_SativaSeeds": {
                     "Seasons": [ "spring", "summer" ],
 					"DaysInPhase": [ 3, 3, 3 ],
-					"HarvestItemId": "Sativa",
-					"Texture": "crop_sativa.png"
+					"HarvestItemId": "SativaBud",
+					"Texture": "assets/sativacrop"
                 }
             }
 		}

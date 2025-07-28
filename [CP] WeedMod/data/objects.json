@@ -26,25 +26,23 @@
                     "Texture": "assets/objects",
                     "SpriteIndex": 7
                 },
-                "IndicaSeeds": {
+                "{{ModId}}_IndicaSeeds": {
                     "Name": "IndicaSeeds",
                     "DisplayName": "Indica Seeds",
 					"Type": "Seed",
                     "Category": -74,
                     "Description": "Mysterious seeds from Sebastian's room..could be grown into something calming?",
                     "Price": 10,
-                    "Edibility": 0,
                     "Texture": "assets/objects",
                     "SpriteIndex": 4
                 },
-                "SativaSeeds": {
+                "{{ModId}}_SativaSeeds": {
                     "Name": "SativaSeeds",
                     "DisplayName": "Sativa Seeds",
 					"Type": "Seed",
                     "Category": -74,
                     "Description": "Mysterious seeds from Sebastian's room..could be grown into something energizing?",
                     "Price": 10,
-                    "Edibility": 0,
                     "Texture": "assets/objects",
                     "SpriteIndex": 5
                 },
