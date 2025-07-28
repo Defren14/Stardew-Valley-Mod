@@ -41,6 +41,11 @@
       "LogName": "Load Crafting Recipes",
       "Action": "Include",
       "FromFile": "data/craftingrecipes.json"
+    },
+    {
+      "LogName": "Load Mail",
+      "Action": "Include",
+      "FromFile": "data/mail.json"
     }
   ]
 }
