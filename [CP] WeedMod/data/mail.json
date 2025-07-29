@@ -5,14 +5,18 @@
 			"Action": "EditData",
 			"Target": "Data/Mail",
 			"Entries": {
-				"SebastianWeedLetter": "Hey @, heard my mom gave you my stash, this should help you out with that.^ -Sebastian%item craftingRecipe FilledBongA%%%item craftingRecipe FilledBongB%%%item craftingRecipe PineappleExpressPackedBong%%%item craftingRecipe BlueDreamPackedBong%%%item craftingRecipe GelatoPackedBong%%%item craftingRecipe FlapjacksPackedBong%%%item craftingRecipe TangiePackedBong%%%item craftingRecipe JointA%%%item craftingRecipe JointB%%%item craftingRecipe PineappleExpressJoint%%%item craftingRecipe BlueDreamJoint%%%item craftingRecipe GelatoJoint%%%item craftingRecipe FlapjacksJoint%%%item craftingRecipe TangieJoint%%%item cookingRecipe {{ModId}}_PineappleExpressEdible%%%item cookingRecipe {{ModId}}_BlueDreamEdible%%%item cookingRecipe {{ModId}}_GelatoEdible%%%item cookingRecipe {{ModId}}_FlapjacksEdible%%%item cookingRecipe {{ModId}}_TangieEdible%%%item cookingRecipe {{ModId}}_PineappleExpress%%%item cookingRecipe {{ModId}}_BlueDream%%%item cookingRecipe {{ModId}}_Gelato%%%item cookingRecipe {{ModId}}_Flapjacks%%%item cookingRecipe {{ModId}}_Tangie%%%item craftingRecipe Bong%%[#]Learned Weed Knowledge"
+				"SebastianWeedLetter": "Hey @, heard my mom gave you my stash, this should help you out with that.^ -Sebastian%item craftingRecipe FilledBongA%%%item craftingRecipe FilledBongB%%%item craftingRecipe PineappleExpressPackedBong%%%item craftingRecipe BlueDreamPackedBong%%%item craftingRecipe GelatoPackedBong%%%item craftingRecipe FlapjacksPackedBong%%%item craftingRecipe TangiePackedBong%%%item craftingRecipe JointA%%%item craftingRecipe JointB%%%item craftingRecipe PineappleExpressJoint%%%item craftingRecipe BlueDreamJoint%%%item craftingRecipe GelatoJoint%%%item craftingRecipe FlapjacksJoint%%%item craftingRecipe TangieJoint%%%item cookingRecipe {{ModId}}_PineappleExpressEdible%%%item cookingRecipe {{ModId}}_BlueDreamEdible%%%item cookingRecipe {{ModId}}_GelatoEdible%%%item cookingRecipe {{ModId}}_FlapjacksEdible%%%item cookingRecipe {{ModId}}_TangieEdible%%%item cookingRecipe {{ModId}}_PineappleExpress%%%item cookingRecipe {{ModId}}_BlueDream%%%item cookingRecipe {{ModId}}_Gelato%%%item cookingRecipe {{ModId}}_Flapjacks%%%item cookingRecipe {{ModId}}_Tangie%%%item craftingRecipe Bong%%[#]Learned Weed Knowledge",
+				"SebastianAvaLetter": "@,^You are my one and only. I am so crazy beyond in love with you. I want nothing more than to have sex with you non-stop for the next 7 months straight.^ -Sebastian"
 			}
 
 		},
         {
 			"Action": "EditData",
             "Target": "Data/TriggerActions",
-            "When": {"Hearts:Sebastian": 2},
+            "When": {
+				"Hearts:Sebastian": 2,
+				"HasSeenEvent": "{{ModId}}_101"
+			},
             "Entries": {
 				"SebastianWeedLetterTrigger": {
 					"Id": "SebastianWeedLetterTrigger",
@@ -20,6 +24,22 @@
 			        "Trigger": "DayEnding",
                     
 					"Action": "AddMail Current SebastianWeedLetter tomorrow"
+				}
+			}
+		},
+		{
+			"Action": "EditData",
+            "Target": "Data/TriggerActions",
+            "When": {
+				"Hearts:Sebastian": 4
+			},
+            "Entries": {
+				"SebastianWeedLetterTrigger": {
+					"Id": "SebastianAvaLetterTrigger",
+					"Target": "Data/Events/Farm",
+			        "Trigger": "DayEnding",
+                    
+					"Action": "AddMail Current SebastianAvaLetter tomorrow"
 				}
 			}
 		}
