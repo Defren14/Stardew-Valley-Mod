@@ -13,7 +13,7 @@
                     "Price": 35,
                     "Edibility": 0,
                     "Texture": "assets/objects",
-                    "SpriteIndex": 6
+                    "SpriteIndex": 7
                 },
                 "SativaBud": {
                     "Name": "SativaBud",
@@ -24,7 +24,7 @@
                     "Price": 35,
                     "Edibility": 0,
                     "Texture": "assets/objects",
-                    "SpriteIndex": 7
+                    "SpriteIndex": 6
                 },
                 "{{ModId}}_IndicaSeeds": {
                     "Name": "IndicaSeeds",
@@ -265,6 +265,83 @@
                     "Edibility": 0,
                     "Texture": "assets/objects",
                     "SpriteIndex": 22
+                },
+                "BlueDreamEdible": {
+                    "Name": "BlueDreamEdible",
+                    "DisplayName": "Blue Dream Edible",
+					"Type": "Artisan Good",
+                    "Category": -26,
+                    "Description": "1",
+                    "Price": 85,
+                    "Edibility": 0,
+                    "Texture": "assets/objects",
+                    "SpriteIndex": 29
+                },
+                "FlapjacksEdible": {
+                    "Name": "FlapjacksEdible",
+                    "DisplayName": "Flapjacks Edible",
+					"Type": "Flower",
+                    "Category": -26,
+                    "Description": "1",
+                    "Price": 85,
+                    "Edibility": 0,
+                    "Texture": "assets/objects",
+                    "SpriteIndex": 25
+                },
+                "GelatoEdible": {
+                    "Name": "GelatoEdible",
+                    "DisplayName": "Gelato Edible",
+					"Type": "Flower",
+                    "Category": -26,
+                    "Description": "1",
+                    "Price": 85,
+                    "Edibility": 0,
+                    "Texture": "assets/objects",
+                    "SpriteIndex": 26
+                },
+                "PineappleExpressEdible": {
+                    "Name": "PineappleExpressEdible",
+                    "DisplayName": "Pineapple Express Edible",
+					"Type": "Flower",
+                    "Category": -26,
+                    "Description": "1",
+                    "Price": 85,
+                    "Edibility": 0,
+                    "Texture": "assets/objects",
+                    "SpriteIndex": 27
+                },
+                "TangieEdible": {
+                    "Name": "TangieEdible",
+                    "DisplayName": "Tangie Edible",
+					"Type": "Flower",
+                    "Category": -26,
+                    "Description": "1",
+                    "Price": 85,
+                    "Edibility": 0,
+                    "Texture": "assets/objects",
+                    "SpriteIndex": 28
+                },
+                "IndicaEdible": {
+                    "Name": "IndicaEdible",
+                    "DisplayName": "Indica Edible",
+					"Type": "Artisan Good",
+                    "Category": -26,
+                    "Description": "1",
+                    "Price": 85,
+                    "Edibility": 0,
+                    "Texture": "assets/objects",
+                    "SpriteIndex": 24
+                },
+                "SativaEdible": {
+                    "Name": "SativaEdible",
+                    "DisplayName": "Sativa Edible",
+					"Type": "Artisan Good",
+                    "Category": -26,
+                    "Description": "1",
+                    "Price": 85,
+                    "Edibility": 0,
+                    "Texture": "assets/objects",
+                    "SpriteIndex": 23
                 },
                 "Tangie": {
                     "Name": "Tangie",

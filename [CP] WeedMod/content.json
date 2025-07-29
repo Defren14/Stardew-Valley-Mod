@@ -41,6 +41,11 @@
       "LogName": "Load Mail",
       "Action": "Include",
       "FromFile": "data/mail.json"
+    },
+    {
+      "LogName": "Load Cutscenes",
+      "Action": "Include",
+      "FromFile": "data/cutscenes.json"
     }
   ]
 }
