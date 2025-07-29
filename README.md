@@ -19,5 +19,5 @@ CREDITS
 
 Code written by Aidan Birmingham
 Art create by Elizabeth Payne
-Dialogue and Descriptions by Ava Dumatrescu
+Dialogue and Descriptions by Ava Dumitrescu
 GitHub Repo - https://github.com/Defren14/Stardew-Valley-Mod/tree/master
