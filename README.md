@@ -17,5 +17,7 @@ LINUX - ~/.steam/steam/steamapps/common/Stardew Valley/Mods
 
 CREDITS
 
-
+Code written by Aidan Birmingham
+Art create by Elizabeth Payne
+Dialogue and Descriptions by Ava Dumatrescu
 GitHub Repo - https://github.com/Defren14/Stardew-Valley-Mod/tree/master
