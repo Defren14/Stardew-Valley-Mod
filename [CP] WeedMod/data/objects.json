@@ -95,7 +95,7 @@
                     "DisplayName": "Bong",
 					"Type": "Artisan Good",
                     "Category": -26,
-                    "Description": "TBD its Sativa Seeds",
+                    "Description": "A glass water pipe used for the consumption of marijuana or tobacco products. Features a heating bowl, water reservoir, and a tube! What more could you possibly want?",
                     "Price": 85,
                     "Edibility": 0,
                     "Texture": "assets/objects",
@@ -106,29 +106,77 @@
                     "DisplayName": "Indica Packed Bong",
 					"Type": "Artisan Good",
                     "Category": -26,
-                    "Description": "TBD its Sativa Seeds",
+                    "Description": "A round glass water pipe, it smells herbal, looks like there’s some indica inside.",
                     "Price": 85,
-                    "Edibility": 0,
                     "Texture": "assets/objects",
-                    "SpriteIndex": 1
+                    "SpriteIndex": 1,
+                    "Edibility": -10,
+                    "IsDrink": true,
+                    "Buffs": [
+                        {
+                            "Id": "Drink",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 265,
+                            "IsDebuff": false,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0,
+                                "FishingLevel": 0,
+                                "MiningLevel": 0,
+                                "LuckLevel": 2,
+                                "ForagingLevel": 0,
+                                "MaxStamina": -25,
+                                "MagneticRadius": 0,
+                                "Speed": 0,
+                                "Defense": 3,
+                                "Attack": 0
+                            },
+                            "CustomFields": {}
+                        }
+                    ]
                 },
                 "SativaPackedBong": {
                     "Name": "SativaPackedBong",
                     "DisplayName": "Sativa Packed Bong",
 					"Type": "Artisan Good",
                     "Category": -26,
-                    "Description": "TBD its Sativa Seeds",
+                    "Description": "A round glass water pipe, it smells invigorating, looks like there’s some sativa inside.",
                     "Price": 85,
-                    "Edibility": 0,
                     "Texture": "assets/objects",
-                    "SpriteIndex": 1
+                    "SpriteIndex": 1,
+                    "Edibility": -10,
+                    "IsDrink": true,
+                    "Buffs": [
+                        {
+                            "Id": "Drink",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 265,
+                            "IsDebuff": false,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0,
+                                "FishingLevel": 0,
+                                "MiningLevel": 0,
+                                "LuckLevel": 2,
+                                "ForagingLevel": 0,
+                                "MaxStamina": -25,
+                                "MagneticRadius": 0,
+                                "Speed": 1,
+                                "Defense": 0,
+                                "Attack": 0
+                            },
+                            "CustomFields": {}
+                        }
+                    ]
                 },
                 "RollingPaper": {
                     "Name": "RollingPaper",
                     "DisplayName": "Rolling Paper",
 					"Type": "Artisan Good",
                     "Category": -26,
-                    "Description": "TBD its Sativa Seeds",
+                    "Description": "A small and thin piece of paper, seems like it could be used to wrap something...",
                     "Price": 85,
                     "Edibility": 0,
                     "Texture": "assets/objects",
@@ -139,77 +187,245 @@
                     "DisplayName": "Indica Joint",
 					"Type": "Artisan Good",
                     "Category": -26,
-                    "Description": "TBD its Sativa Seeds",
+                    "Description": "A rolled Indica bud, its herbal scent is somehow relaxing.",
                     "Price": 85,
-                    "Edibility": 0,
                     "Texture": "assets/objects",
-                    "SpriteIndex": 3
+                    "SpriteIndex": 3,
+                    "Edibility": -10,
+                    "IsDrink": true,
+                    "Buffs": [
+                        {
+                            "Id": "Drink",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 265,
+                            "IsDebuff": false,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0,
+                                "FishingLevel": 0,
+                                "MiningLevel": 0,
+                                "LuckLevel": 2,
+                                "ForagingLevel": 0,
+                                "MaxStamina": -25,
+                                "MagneticRadius": 0,
+                                "Speed": 0,
+                                "Defense": 3,
+                                "Attack": 0
+                            },
+                            "CustomFields": {}
+                        }
+                    ]
                 },
                 "SativaJoint": {
                     "Name": "SativaJoint",
                     "DisplayName": "Sativa Joint",
 					"Type": "Artisan Good",
                     "Category": -26,
-                    "Description": "TBD its Sativa Seeds",
+                    "Description": "A rolled sativa bud, its fragrant scent is inviting and invigorating.",
                     "Price": 85,
-                    "Edibility": 0,
                     "Texture": "assets/objects",
-                    "SpriteIndex": 3
+                    "SpriteIndex": 3,
+                    "Edibility": -10,
+                    "IsDrink": true,
+                    "Buffs": [
+                        {
+                            "Id": "Drink",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 265,
+                            "IsDebuff": false,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0,
+                                "FishingLevel": 0,
+                                "MiningLevel": 0,
+                                "LuckLevel": 2,
+                                "ForagingLevel": 0,
+                                "MaxStamina": -25,
+                                "MagneticRadius": 0,
+                                "Speed": 1,
+                                "Defense": 0,
+                                "Attack": 0
+                            },
+                            "CustomFields": {}
+                        }
+                    ]
                 },
                 "BlueDreamPackedBong": {
                     "Name": "BlueDreamPackedBong",
                     "DisplayName": "Blue Dream Packed Bong",
 					"Type": "Flower",
                     "Category": -26,
-                    "Description": "TBD its Sativa Seeds",
+                    "Description": "A round glass water pipe, it’s emitting an earthy scent, which reminds you of blueberries. Maybe you should go foraging..",
                     "Price": 85,
-                    "Edibility": 0,
                     "Texture": "assets/objects",
-                    "SpriteIndex": 13
+                    "SpriteIndex": 13,
+                    "Edibility": -10,
+                    "IsDrink": true,
+                    "Buffs": [
+                        {
+                            "Id": "Drink",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 265,
+                            "IsDebuff": false,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0,
+                                "FishingLevel": 0,
+                                "MiningLevel": 0,
+                                "LuckLevel": 2,
+                                "ForagingLevel": 3,
+                                "MaxStamina": -25,
+                                "MagneticRadius": 0,
+                                "Speed": 0,
+                                "Defense": 0,
+                                "Attack": 0
+                            },
+                            "CustomFields": {}
+                        }
+                    ]
                 },
                 "FlapjacksPackedBong": {
                     "Name": "FlapjacksPackedBong",
                     "DisplayName": "Flapjacks Packed Bong",
 					"Type": "Flower",
                     "Category": -26,
-                    "Description": "TBD its Sativa Seeds",
+                    "Description": "A round glass water pipe, it’s emitting a smell reminiscent of breakfast, maybe you should stay on the farm today.",
                     "Price": 85,
-                    "Edibility": 0,
                     "Texture": "assets/objects",
-                    "SpriteIndex": 14
+                    "SpriteIndex": 14,
+                    "Edibility": -10,
+                    "IsDrink": true,
+                    "Buffs": [
+                        {
+                            "Id": "Drink",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 265,
+                            "IsDebuff": false,
+                            "CustomAttributes": {
+                                "FarmingLevel": 3,
+                                "FishingLevel": 0,
+                                "MiningLevel": 0,
+                                "LuckLevel": 2,
+                                "ForagingLevel": 0,
+                                "MaxStamina": -25,
+                                "MagneticRadius": 0,
+                                "Speed": 0,
+                                "Defense": 0,
+                                "Attack": 0
+                            },
+                            "CustomFields": {}
+                        }
+                    ]
                 },
                 "GelatoPackedBong": {
                     "Name": "GelatoPackedBong",
                     "DisplayName": "Gelato Packed Bong",
 					"Type": "Flower",
                     "Category": -26,
-                    "Description": "TBD its Sativa Seeds",
+                    "Description": "A round glass water pipe, it’s emitting a saccharine scent, seeming to lead your feet towards the mines",
                     "Price": 85,
-                    "Edibility": 0,
                     "Texture": "assets/objects",
-                    "SpriteIndex": 15
+                    "SpriteIndex": 15,
+                    "Edibility": -10,
+                    "IsDrink": true,
+                    "Buffs": [
+                        {
+                            "Id": "Drink",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 265,
+                            "IsDebuff": false,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0,
+                                "FishingLevel": 0,
+                                "MiningLevel": 3,
+                                "LuckLevel": 2,
+                                "ForagingLevel": 0,
+                                "MaxStamina": -25,
+                                "MagneticRadius": 0,
+                                "Speed": 0,
+                                "Defense": 0,
+                                "Attack": 0
+                            },
+                            "CustomFields": {}
+                        }
+                    ]
                 },
                 "PineappleExpressPackedBong": {
                     "Name": "PineappleExpressPackedBong",
                     "DisplayName": "Pineapple Express Packed Bong",
 					"Type": "Flower",
                     "Category": -26,
-                    "Description": "TBD its Sativa Seeds",
+                    "Description": "A round glass water pipe, it’s emitting a tropical scent, luring you towards the beach",
                     "Price": 85,
-                    "Edibility": 0,
                     "Texture": "assets/objects",
-                    "SpriteIndex": 16
+                    "SpriteIndex": 16,
+                    "Edibility": -10,
+                    "IsDrink": true,
+                    "Buffs": [
+                        {
+                            "Id": "Drink",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 265,
+                            "IsDebuff": false,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0,
+                                "FishingLevel": 3,
+                                "MiningLevel": 0,
+                                "LuckLevel": 2,
+                                "ForagingLevel": 0,
+                                "MaxStamina": -25,
+                                "MagneticRadius": 0,
+                                "Speed": 0,
+                                "Defense": 0,
+                                "Attack": 0
+                            },
+                            "CustomFields": {}
+                        }
+                    ]
                 },
                 "TangiePackedBong": {
                     "Name": "TangiePackedBong",
                     "DisplayName": "Tangie Packed Bong",
 					"Type": "Flower",
                     "Category": -26,
-                    "Description": "TBD its Sativa Seeds",
+                    "Description": "A round glass water pipe, it’s emitting a citrusy scent, filling you with the energy to slay a whole cave of monsters",
                     "Price": 85,
-                    "Edibility": 0,
                     "Texture": "assets/objects",
-                    "SpriteIndex": 17
+                    "SpriteIndex": 17,
+                    "Edibility": -10,
+                    "IsDrink": true,
+                    "Buffs": [
+                        {
+                            "Id": "Drink",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 265,
+                            "IsDebuff": false,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0,
+                                "FishingLevel": 0,
+                                "MiningLevel": 0,
+                                "LuckLevel": 2,
+                                "ForagingLevel": 0,
+                                "MaxStamina": -25,
+                                "MagneticRadius": 0,
+                                "Speed": 0,
+                                "Defense": 0,
+                                "Attack": 3
+                            },
+                            "CustomFields": {}
+                        }
+                    ]
                 },
                 "BlueDreamJoint": {
                     "Name": "BlueDreamJoint",
@@ -218,9 +434,33 @@
                     "Category": -26,
                     "Description": "A rolled Blue Dream bud, its earthy scent reminds you of blueberries, maybe you should go foraging.",
                     "Price": 85,
-                    "Edibility": 0,
                     "Texture": "assets/objects",
-                    "SpriteIndex": 18
+                    "SpriteIndex": 18,
+                    "Edibility": -10,
+                    "IsDrink": true,
+                    "Buffs": [
+                        {
+                            "Id": "Drink",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 265,
+                            "IsDebuff": false,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0,
+                                "FishingLevel": 0,
+                                "MiningLevel": 0,
+                                "LuckLevel": 2,
+                                "ForagingLevel": 3,
+                                "MaxStamina": -25,
+                                "MagneticRadius": 0,
+                                "Speed": 0,
+                                "Defense": 0,
+                                "Attack": 0
+                            },
+                            "CustomFields": {}
+                        }
+                    ]
                 },
                 "FlapjacksJoint": {
                     "Name": "FlapjacksJoint",
@@ -229,9 +469,33 @@
                     "Category": -26,
                     "Description": "A rolled Flapjacks bud, its breakfast-y smell is homey, you find yourself wanting to stay on the farm today.",
                     "Price": 85,
-                    "Edibility": 0,
                     "Texture": "assets/objects",
-                    "SpriteIndex": 19
+                    "SpriteIndex": 19,
+                    "Edibility": -10,
+                    "IsDrink": true,
+                    "Buffs": [
+                        {
+                            "Id": "Drink",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 265,
+                            "IsDebuff": false,
+                            "CustomAttributes": {
+                                "FarmingLevel": 3,
+                                "FishingLevel": 0,
+                                "MiningLevel": 0,
+                                "LuckLevel": 2,
+                                "ForagingLevel": 0,
+                                "MaxStamina": -25,
+                                "MagneticRadius": 0,
+                                "Speed": 0,
+                                "Defense": 0,
+                                "Attack": 0
+                            },
+                            "CustomFields": {}
+                        }
+                    ]
                 },
                 "GelatoJoint": {
                     "Name": "GelatoJoint",
@@ -240,9 +504,33 @@
                     "Category": -26,
                     "Description": "A rolled Gelato bud, its sweet scent is intoxicating, seeming to lead your feet towards the mines.",
                     "Price": 85,
-                    "Edibility": 0,
                     "Texture": "assets/objects",
-                    "SpriteIndex": 20
+                    "SpriteIndex": 20,
+                    "Edibility": -10,
+                    "IsDrink": true,
+                    "Buffs": [
+                        {
+                            "Id": "Drink",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 265,
+                            "IsDebuff": false,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0,
+                                "FishingLevel": 0,
+                                "MiningLevel": 3,
+                                "LuckLevel": 2,
+                                "ForagingLevel": 0,
+                                "MaxStamina": -25,
+                                "MagneticRadius": 0,
+                                "Speed": 0,
+                                "Defense": 0,
+                                "Attack": 0
+                            },
+                            "CustomFields": {}
+                        }
+                    ]
                 },
                 "PineappleExpressJoint": {
                     "Name": "PineappleExpressJoint",
@@ -251,9 +539,33 @@
                     "Category": -26,
                     "Description": "A rolled Pineapple Express bud, its tropical scent inclines you to visit the beach.",
                     "Price": 85,
-                    "Edibility": 0,
                     "Texture": "assets/objects",
-                    "SpriteIndex": 21
+                    "SpriteIndex": 21,
+                    "Edibility": -10,
+                    "IsDrink": true,
+                    "Buffs": [
+                        {
+                            "Id": "Drink",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 265,
+                            "IsDebuff": false,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0,
+                                "FishingLevel": 3,
+                                "MiningLevel": 0,
+                                "LuckLevel": 2,
+                                "ForagingLevel": 0,
+                                "MaxStamina": -25,
+                                "MagneticRadius": 0,
+                                "Speed": 0,
+                                "Defense": 0,
+                                "Attack": 0
+                            },
+                            "CustomFields": {}
+                        }
+                    ]
                 },
                 "TangieJoint": {
                     "Name": "TangieJoint",
@@ -262,86 +574,278 @@
                     "Category": -26,
                     "Description": "A rolled Tangie bud, its citrusy scent fills you with the energy to slay a whole cave of monsters.",
                     "Price": 85,
-                    "Edibility": 0,
                     "Texture": "assets/objects",
-                    "SpriteIndex": 22
+                    "SpriteIndex": 22,
+                    "Edibility": -10,
+                    "IsDrink": true,
+                    "Buffs": [
+                        {
+                            "Id": "Drink",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 265,
+                            "IsDebuff": false,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0,
+                                "FishingLevel": 0,
+                                "MiningLevel": 0,
+                                "LuckLevel": 2,
+                                "ForagingLevel": 0,
+                                "MaxStamina": -25,
+                                "MagneticRadius": 0,
+                                "Speed": 0,
+                                "Defense": 0,
+                                "Attack": 3
+                            },
+                            "CustomFields": {}
+                        }
+                    ]
                 },
                 "BlueDreamEdible": {
                     "Name": "BlueDreamEdible",
                     "DisplayName": "Blue Dream Edible",
 					"Type": "Artisan Good",
                     "Category": -26,
-                    "Description": "1",
+                    "Description": "A sky blue gummy, its earthy scent reminds you of blueberries, maybe you should go foraging. Don’t eat them all in one sitting!",
                     "Price": 85,
-                    "Edibility": 0,
                     "Texture": "assets/objects",
-                    "SpriteIndex": 29
+                    "SpriteIndex": 29,
+                    "Edibility": -10,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 530,
+                            "IsDebuff": false,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0,
+                                "FishingLevel": 0,
+                                "MiningLevel": 0,
+                                "LuckLevel": 2,
+                                "ForagingLevel": 3,
+                                "MaxStamina": -25,
+                                "MagneticRadius": 0,
+                                "Speed": 0,
+                                "Defense": 0,
+                                "Attack": 0
+                            },
+                            "CustomFields": {}
+                        }
+                    ]
                 },
                 "FlapjacksEdible": {
                     "Name": "FlapjacksEdible",
                     "DisplayName": "Flapjacks Edible",
 					"Type": "Flower",
                     "Category": -26,
-                    "Description": "1",
+                    "Description": "A cream colored gummy, its breakfast-y smell is homey, you find yourself wanting to stay on the farm today. Don’t eat them all in one sitting!",
                     "Price": 85,
-                    "Edibility": 0,
                     "Texture": "assets/objects",
-                    "SpriteIndex": 25
+                    "SpriteIndex": 25,
+                    "Edibility": -10,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 530,
+                            "IsDebuff": false,
+                            "CustomAttributes": {
+                                "FarmingLevel": 3,
+                                "FishingLevel": 0,
+                                "MiningLevel": 0,
+                                "LuckLevel": 2,
+                                "ForagingLevel": 0,
+                                "MaxStamina": -25,
+                                "MagneticRadius": 0,
+                                "Speed": 0,
+                                "Defense": 0,
+                                "Attack": 0
+                            },
+                            "CustomFields": {}
+                        }
+                    ]
                 },
                 "GelatoEdible": {
                     "Name": "GelatoEdible",
                     "DisplayName": "Gelato Edible",
 					"Type": "Flower",
                     "Category": -26,
-                    "Description": "1",
+                    "Description": "A lilac gummy, its sweet scent is intoxicating, seeming to lead your feet towards the mines. Don’t eat them all in one sitting!",
                     "Price": 85,
-                    "Edibility": 0,
                     "Texture": "assets/objects",
-                    "SpriteIndex": 26
+                    "SpriteIndex": 26,
+                    "Edibility": -10,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 530,
+                            "IsDebuff": false,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0,
+                                "FishingLevel": 0,
+                                "MiningLevel": 3,
+                                "LuckLevel": 2,
+                                "ForagingLevel": 0,
+                                "MaxStamina": -25,
+                                "MagneticRadius": 0,
+                                "Speed": 0,
+                                "Defense": 0,
+                                "Attack": 0
+                            },
+                            "CustomFields": {}
+                        }
+                    ]
                 },
                 "PineappleExpressEdible": {
                     "Name": "PineappleExpressEdible",
                     "DisplayName": "Pineapple Express Edible",
 					"Type": "Flower",
                     "Category": -26,
-                    "Description": "1",
+                    "Description": "A bright yellow gummy, its tropical scent lures you to the beach. Don’t eat them all in one sitting!",
                     "Price": 85,
-                    "Edibility": 0,
                     "Texture": "assets/objects",
-                    "SpriteIndex": 27
+                    "SpriteIndex": 27,
+                    "Edibility": -10,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 530,
+                            "IsDebuff": false,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0,
+                                "FishingLevel": 3,
+                                "MiningLevel": 0,
+                                "LuckLevel": 2,
+                                "ForagingLevel": 0,
+                                "MaxStamina": -25,
+                                "MagneticRadius": 0,
+                                "Speed": 0,
+                                "Defense": 0,
+                                "Attack": 0
+                            },
+                            "CustomFields": {}
+                        }
+                    ]
                 },
                 "TangieEdible": {
                     "Name": "TangieEdible",
                     "DisplayName": "Tangie Edible",
 					"Type": "Flower",
                     "Category": -26,
-                    "Description": "1",
+                    "Description": "A vibrant orange gummy, its citrusy scent fills you with the energy to slay a whole cave of monsters. Don’t eat them all in one sitting!",
                     "Price": 85,
-                    "Edibility": 0,
                     "Texture": "assets/objects",
-                    "SpriteIndex": 28
+                    "SpriteIndex": 28,
+                    "Edibility": -10,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 530,
+                            "IsDebuff": false,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0,
+                                "FishingLevel": 0,
+                                "MiningLevel": 0,
+                                "LuckLevel": 2,
+                                "ForagingLevel": 0,
+                                "MaxStamina": -25,
+                                "MagneticRadius": 0,
+                                "Speed": 0,
+                                "Defense": 0,
+                                "Attack": 3
+                            },
+                            "CustomFields": {}
+                        }
+                    ]
                 },
                 "IndicaEdible": {
                     "Name": "IndicaEdible",
                     "DisplayName": "Indica Edible",
 					"Type": "Artisan Good",
                     "Category": -26,
-                    "Description": "1",
+                    "Description": "A deep green gummy, its herbal scent is somehow relaxing. Don’t eat them all in one sitting!",
                     "Price": 85,
-                    "Edibility": 0,
                     "Texture": "assets/objects",
-                    "SpriteIndex": 24
+                    "SpriteIndex": 24,
+                    "Edibility": -10,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 530,
+                            "IsDebuff": false,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0,
+                                "FishingLevel": 0,
+                                "MiningLevel": 0,
+                                "LuckLevel": 2,
+                                "ForagingLevel": 0,
+                                "MaxStamina": -25,
+                                "MagneticRadius": 0,
+                                "Speed": 0,
+                                "Defense": 3,
+                                "Attack": 0
+                            },
+                            "CustomFields": {}
+                        }
+                    ]
                 },
                 "SativaEdible": {
                     "Name": "SativaEdible",
                     "DisplayName": "Sativa Edible",
 					"Type": "Artisan Good",
                     "Category": -26,
-                    "Description": "1",
+                    "Description": "A fern green gummy, its fragrant scent is inviting and invigorating. Don’t eat them all in one sitting!",
                     "Price": 85,
-                    "Edibility": 0,
                     "Texture": "assets/objects",
-                    "SpriteIndex": 23
+                    "SpriteIndex": 23,
+                    "Edibility": -10,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 530,
+                            "IsDebuff": false,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0,
+                                "FishingLevel": 0,
+                                "MiningLevel": 0,
+                                "LuckLevel": 2,
+                                "ForagingLevel": 0,
+                                "MaxStamina": -25,
+                                "MagneticRadius": 0,
+                                "Speed": 1,
+                                "Defense": 0,
+                                "Attack": 0
+                            },
+                            "CustomFields": {}
+                        }
+                    ]
                 },
                 "Tangie": {
                     "Name": "Tangie",

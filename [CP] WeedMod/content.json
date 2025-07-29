@@ -46,6 +46,11 @@
       "LogName": "Load Cutscenes",
       "Action": "Include",
       "FromFile": "data/cutscenes.json"
+    },
+    {
+      "LogName": "Load Gift Tastes",
+      "Action": "Include",
+      "FromFile": "data/gifttastes.json"
     }
   ]
 }

@@ -1,0 +1,161 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Universal_Dislike"],
+                    "Value": "IndicaBud SativaBud PineappleExpress BlueDream Gelato Flapjacks Tangie IndicaJoint SativaJoint PineappleExpressJoint BlueDreamJoint GelatoJoint FlapjacksJoint TangieJoint IndicaPackedBong SativaPackedBong PineappleExpressPackedBong BlueDreamPackedBong GelatoPackedBong FlapjacksPackedBong TangiePackedBong RollingPaper SativaEdible IndicaEdible PineappleExpressEdible BlueDreamEdible GelatoEdible FlapjacksEdible TangieEdible", 
+                    "Delimiter": ""
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Fields", "Abigail", 3],
+                    "Value": "IndicaBud SativaBud PineappleExpress BlueDream Flapjacks Tangie IndicaJoint SativaJoint PineappleExpressJoint BlueDreamJoint FlapjacksJoint TangieJoint IndicaPackedBong SativaPackedBong PineappleExpressPackedBong BlueDreamPackedBong FlapjacksPackedBong TangiePackedBong RollingPaper SativaEdible IndicaEdible PineappleExpressEdible BlueDreamEdible FlapjacksEdible TangieEdible", 
+                    "Delimiter": ""
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Fields", "Abigail", 1],
+                    "Value": "Gelato GelatoJoint GelatoPackedBong GelatoEdible", 
+                    "Delimiter": ""
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Fields", "Evelyn", 7],
+                    "Value": "IndicaBud SativaBud PineappleExpress BlueDream Gelato Flapjacks Tangie IndicaJoint SativaJoint PineappleExpressJoint BlueDreamJoint GelatoJoint FlapjacksJoint TangieJoint IndicaPackedBong SativaPackedBong PineappleExpressPackedBong BlueDreamPackedBong GelatoPackedBong FlapjacksPackedBong TangiePackedBong RollingPaper SativaEdible IndicaEdible PineappleExpressEdible BlueDreamEdible GelatoEdible FlapjacksEdible TangieEdible", 
+                    "Delimiter": ""
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Fields", "George", 7],
+                    "Value": "IndicaBud SativaBud PineappleExpress BlueDream Gelato Flapjacks Tangie IndicaJoint SativaJoint PineappleExpressJoint BlueDreamJoint GelatoJoint FlapjacksJoint TangieJoint IndicaPackedBong SativaPackedBong PineappleExpressPackedBong BlueDreamPackedBong GelatoPackedBong FlapjacksPackedBong TangiePackedBong RollingPaper SativaEdible IndicaEdible PineappleExpressEdible BlueDreamEdible GelatoEdible FlapjacksEdible TangieEdible", 
+                    "Delimiter": ""
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Fields", "Lewis", 7],
+                    "Value": "IndicaBud SativaBud PineappleExpress BlueDream Gelato Flapjacks Tangie IndicaJoint SativaJoint PineappleExpressJoint BlueDreamJoint GelatoJoint FlapjacksJoint TangieJoint IndicaPackedBong SativaPackedBong PineappleExpressPackedBong BlueDreamPackedBong GelatoPackedBong FlapjacksPackedBong TangiePackedBong RollingPaper SativaEdible IndicaEdible PineappleExpressEdible BlueDreamEdible GelatoEdible FlapjacksEdible TangieEdible", 
+                    "Delimiter": ""
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Fields", "Jodi", 7],
+                    "Value": "IndicaBud SativaBud PineappleExpress BlueDream Gelato Flapjacks Tangie IndicaJoint SativaJoint PineappleExpressJoint BlueDreamJoint GelatoJoint FlapjacksJoint TangieJoint IndicaPackedBong SativaPackedBong PineappleExpressPackedBong BlueDreamPackedBong GelatoPackedBong FlapjacksPackedBong TangiePackedBong RollingPaper SativaEdible IndicaEdible PineappleExpressEdible BlueDreamEdible GelatoEdible FlapjacksEdible TangieEdible", 
+                    "Delimiter": ""
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Fields", "Kent", 7],
+                    "Value": "IndicaBud SativaBud PineappleExpress BlueDream Gelato Flapjacks Tangie IndicaJoint SativaJoint PineappleExpressJoint BlueDreamJoint GelatoJoint FlapjacksJoint TangieJoint IndicaPackedBong SativaPackedBong PineappleExpressPackedBong BlueDreamPackedBong GelatoPackedBong FlapjacksPackedBong TangiePackedBong RollingPaper SativaEdible IndicaEdible PineappleExpressEdible BlueDreamEdible GelatoEdible FlapjacksEdible TangieEdible", 
+                    "Delimiter": ""
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Fields", "Gus", 4],
+                    "Value": "IndicaBud SativaBud PineappleExpress BlueDream Gelato Flapjacks Tangie IndicaJoint SativaJoint PineappleExpressJoint BlueDreamJoint GelatoJoint FlapjacksJoint TangieJoint IndicaPackedBong SativaPackedBong PineappleExpressPackedBong BlueDreamPackedBong GelatoPackedBong FlapjacksPackedBong TangiePackedBong RollingPaper SativaEdible IndicaEdible PineappleExpressEdible BlueDreamEdible GelatoEdible FlapjacksEdible TangieEdible", 
+                    "Delimiter": ""
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Fields", "Harvey", 4],
+                    "Value": "IndicaBud SativaBud PineappleExpress BlueDream Gelato Flapjacks Tangie IndicaJoint SativaJoint PineappleExpressJoint BlueDreamJoint GelatoJoint FlapjacksJoint TangieJoint IndicaPackedBong SativaPackedBong PineappleExpressPackedBong BlueDreamPackedBong GelatoPackedBong FlapjacksPackedBong TangiePackedBong RollingPaper SativaEdible IndicaEdible PineappleExpressEdible BlueDreamEdible GelatoEdible FlapjacksEdible TangieEdible", 
+                    "Delimiter": ""
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Fields", "Leah", 3],
+                    "Value": "IndicaBud SativaBud PineappleExpress BlueDream Gelato Flapjacks Tangie IndicaJoint SativaJoint PineappleExpressJoint BlueDreamJoint GelatoJoint FlapjacksJoint TangieJoint IndicaPackedBong SativaPackedBong PineappleExpressPackedBong BlueDreamPackedBong GelatoPackedBong FlapjacksPackedBong TangiePackedBong RollingPaper SativaEdible IndicaEdible PineappleExpressEdible BlueDreamEdible GelatoEdible FlapjacksEdible TangieEdible", 
+                    "Delimiter": ""
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Fields", "Evelyn", 7],
+                    "Value": "IndicaBud SativaBud PineappleExpress BlueDream Gelato Flapjacks Tangie IndicaJoint SativaJoint PineappleExpressJoint BlueDreamJoint GelatoJoint FlapjacksJoint TangieJoint IndicaPackedBong SativaPackedBong PineappleExpressPackedBong BlueDreamPackedBong GelatoPackedBong FlapjacksPackedBong TangiePackedBong RollingPaper SativaEdible IndicaEdible PineappleExpressEdible BlueDreamEdible GelatoEdible FlapjacksEdible TangieEdible", 
+                    "Delimiter": ""
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Fields", "Pam", 3],
+                    "Value": "IndicaBud SativaBud PineappleExpress BlueDream Gelato Tangie IndicaJoint SativaJoint PineappleExpressJoint BlueDreamJoint GelatoJoint TangieJoint IndicaPackedBong SativaPackedBong PineappleExpressPackedBong BlueDreamPackedBong GelatoPackedBong TangiePackedBong RollingPaper SativaEdible IndicaEdible PineappleExpressEdible BlueDreamEdible GelatoEdible TangieEdible", 
+                    "Delimiter": ""
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Fields", "Pam", 1],
+                    "Value": "Flapjacks FlapjacksJoint FlapjacksPackedBong FlapjacksEdible", 
+                    "Delimiter": ""
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Fields", "Sam", 3],
+                    "Value": "IndicaBud SativaBud BlueDream Gelato Flapjacks Tangie IndicaJoint SativaJoint BlueDreamJoint GelatoJoint FlapjacksJoint TangieJoint IndicaPackedBong SativaPackedBong BlueDreamPackedBong GelatoPackedBong FlapjacksPackedBong TangiePackedBong RollingPaper SativaEdible IndicaEdible BlueDreamEdible GelatoEdible FlapjacksEdible TangieEdible", 
+                    "Delimiter": ""
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Fields", "Sam", 1],
+                    "Value": "PineappleExpress PineappleExpressJoint PineappleExpressPackedBong PineappleExpressEdible", 
+                    "Delimiter": ""
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Fields", "Sebastian", 3],
+                    "Value": "SativaBud PineappleExpress Gelato Flapjacks Tangie SativaJoint PineappleExpressJoint GelatoJoint FlapjacksJoint TangieJoint SativaPackedBong PineappleExpressPackedBong GelatoPackedBong FlapjacksPackedBong TangiePackedBong RollingPaper SativaEdible PineappleExpressEdible GelatoEdible FlapjacksEdible TangieEdible", 
+                    "Delimiter": ""
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Fields", "Sebastian", 1],
+                    "Value": "IndicaBud BlueDream IndicaJoin BlueDreamJoint IndicaPackedBong BlueDreamPackedBong IndicaEdible BlueDreamEdible", 
+                    "Delimiter": ""
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Fields", "Shame", 3],
+                    "Value": "IndicaBud SativaBud PineappleExpress BlueDream Gelato Tangie IndicaJoint SativaJoint PineappleExpressJoint BlueDreamJoint GelatoJoint TangieJoint IndicaPackedBong SativaPackedBong PineappleExpressPackedBong BlueDreamPackedBong GelatoPackedBong TangiePackedBong RollingPaper SativaEdible IndicaEdible PineappleExpressEdible BlueDreamEdible GelatoEdible TangieEdible", 
+                    "Delimiter": ""
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Fields", "Shane", 1],
+                    "Value": "Flapjacks FlapjacksJoint FlapjacksPackedBong FlapjacksEdible", 
+                    "Delimiter": ""
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Fields", "Wizard", 1],
+                    "Value": "IndicaBud SativaBud PineappleExpress BlueDream Gelato Flapjacks Tangie IndicaJoint SativaJoint PineappleExpressJoint BlueDreamJoint GelatoJoint FlapjacksJoint TangieJoint IndicaPackedBong SativaPackedBong PineappleExpressPackedBong BlueDreamPackedBong GelatoPackedBong FlapjacksPackedBong TangiePackedBong RollingPaper SativaEdible IndicaEdible PineappleExpressEdible BlueDreamEdible GelatoEdible FlapjacksEdible TangieEdible", 
+                    "Delimiter": ""
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Fields", "Willy", 4],
+                    "Value": "IndicaBud SativaBud BlueDream Gelato Flapjacks Tangie IndicaJoint SativaJoint BlueDreamJoint GelatoJoint FlapjacksJoint TangieJoint IndicaPackedBong SativaPackedBong BlueDreamPackedBong GelatoPackedBong FlapjacksPackedBong TangiePackedBong RollingPaper SativaEdible IndicaEdible BlueDreamEdible GelatoEdible FlapjacksEdible TangieEdible", 
+                    "Delimiter": ""
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Fields", "Willy", 3],
+                    "Value": "PineappleExpress PineappleExpressJoint PineappleExpressPackedBong PineappleExpressEdible", 
+                    "Delimiter": ""
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Fields", "Sandy", 7],
+                    "Value": "IndicaBud SativaBud PineappleExpress BlueDream Gelato Flapjacks IndicaJoint SativaJoint PineappleExpressJoint BlueDreamJoint GelatoJoint FlapjacksJoint IndicaPackedBong SativaPackedBong PineappleExpressPackedBong BlueDreamPackedBong GelatoPackedBong FlapjacksPackedBong RollingPaper SativaEdible IndicaEdible PineappleExpressEdible BlueDreamEdible GelatoEdible FlapjacksEdible", 
+                    "Delimiter": ""
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Fields", "Sandy", 7],
+                    "Value": "Tangie TangieJoint TangiePackedBong TangieEdible", 
+                    "Delimiter": ""
+                }
+
+            ]
+        }
+    ]
+}

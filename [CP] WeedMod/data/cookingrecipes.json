@@ -10,11 +10,11 @@
         "{{ModId}}_Gelato": "IndicaBud 5 233 1/10 8/(O)Gelato 5/mail/",
         "{{ModId}}_Flapjacks": "IndicaBud 5 211 1/10 7/(O)Flapjacks 5/mail/",
         "{{ModId}}_Tangie": "SativaBud 5 635 1/10 6/(O)Tangie 5/mail/",
-        "{{ModId}}_PineappleExpressEdible": "SativaBud 5 832 1/1 10/(O)PineappleExpressEdible 5/mail/",
-        "{{ModId}}_BlueDreamEdible": "SativaBud 5 258 1/10 9/(O)BlueDreamEdible 5/mail/",
-        "{{ModId}}_GelatoEdible": "IndicaBud 5 233 1/10 8/(O)GelatoEdible 5/mail/",
-        "{{ModId}}_FlapjacksEdible": "IndicaBud 5 211 1/10 7/(O)FlapjacksEdible 5/mail/",
-        "{{ModId}}_TangieEdible": "SativaBud 5 635 1/10 6/(O)TangieEdible 5/mail/"
+        "{{ModId}}_PineappleExpressEdible": "PineappleExpress 1 766 1 245 1/1 10/(O)PineappleExpressEdible 5/mail/",
+        "{{ModId}}_BlueDreamEdible": "BlueDream 1 766 1 245 1/10 9/(O)BlueDreamEdible 5/mail/",
+        "{{ModId}}_GelatoEdible": "Gelato 1 766 1 245 1/10 8/(O)GelatoEdible 5/mail/",
+        "{{ModId}}_FlapjacksEdible": "Flapjacks 1 766 1 245 1/10 7/(O)FlapjacksEdible 5/mail/",
+        "{{ModId}}_TangieEdible": "Tangie 1 766 1 245 1/10 6/(O)TangieEdible 5/mail/"
       }
     }
   ]

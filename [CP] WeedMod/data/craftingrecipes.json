@@ -30,7 +30,7 @@
 			"Action": "EditData",
 			"Target": "Data/CraftingRecipes",
 			"Entries": {
-				"Bong": "338 1/Home/(O)Bong 1/true/",
+				"Bong": "-2 1/Home/(O)Bong 1/true/",
         "FilledBongA": "(O)Bong 1 (O)SativaBud/Home/(O)SativaPackedBong 1/true/",
         "FilledBongB": "(O)Bong 1 (O)IndicaBud/Home/(O)IndicaPackedBong 1/true/",
         "PineappleExpressPackedBong": "(O)Bong 1 (O)PineappleExpress 1/Home/(O)PineappleExpressPackedBong 1/true/",
