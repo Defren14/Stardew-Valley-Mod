@@ -857,6 +857,76 @@
                     "Edibility": 0,
                     "Texture": "assets/objects",
                     "SpriteIndex": 11
+                },
+                "MiamiMintGeekBar": {
+                    "Name": "MiamiMintGeekBar",
+                    "DisplayName": "Miami Mint Geek Bar",
+					"Type": "Artisan Good",
+                    "Category": -26,
+                    "Description": "The best thing known to man. Now in a cool mint flavor!",
+                    "Price": 99999999,
+                    "Texture": "assets/objects",
+                    "SpriteIndex": 30,
+                    "Edibility": 0,
+                    "IsDrink": true,
+                    "Buffs": [
+                        {
+                            "Id": "Drink",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 30,
+                            "IsDebuff": false,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0,
+                                "FishingLevel": 0,
+                                "MiningLevel": 0,
+                                "LuckLevel": 0,
+                                "ForagingLevel": 0,
+                                "MaxStamina": 0,
+                                "MagneticRadius": 0,
+                                "Speed": 0,
+                                "Defense": 100,
+                                "Attack": 0
+                            },
+                            "CustomFields": {}
+                        }
+                    ]
+                },
+                "MexicoMangoGeekBar": {
+                    "Name": "MexicoMangoGeekBar",
+                    "DisplayName": "Mexico Mango Geek Bar",
+					"Type": "Artisan Good",
+                    "Category": -26,
+                    "Description": "The best thing known to man. Now in a tangy mango flavor!",
+                    "Price": 99999999,
+                    "Texture": "assets/objects",
+                    "SpriteIndex": 31,
+                    "Edibility": 0,
+                    "IsDrink": true,
+                    "Buffs": [
+                        {
+                            "Id": "Drink",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 30,
+                            "IsDebuff": false,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0,
+                                "FishingLevel": 0,
+                                "MiningLevel": 0,
+                                "LuckLevel": 0,
+                                "ForagingLevel": 0,
+                                "MaxStamina": 0,
+                                "MagneticRadius": 0,
+                                "Speed": 0,
+                                "Defense": 100,
+                                "Attack": 0
+                            },
+                            "CustomFields": {}
+                        }
+                    ]
                 }
             }
         }
