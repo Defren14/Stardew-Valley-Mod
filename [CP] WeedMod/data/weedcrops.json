@@ -6,7 +6,7 @@
             "Entries": {
                 "{{ModId}}_IndicaSeeds": {
                     "Seasons": [ "spring", "summer" ],
-					"DaysInPhase": [ 3, 3, 3 ],
+					"DaysInPhase": [ 1, 2, 3, 3 ],
                     "HarvestMinStack": 5,
                     "HarvestMaxStack": 7,
 					"HarvestItemId": "IndicaBud",
@@ -14,7 +14,7 @@
                 },
                 "{{ModId}}_SativaSeeds": {
                     "Seasons": [ "spring", "summer" ],
-					"DaysInPhase": [ 3, 3, 3 ],
+					"DaysInPhase": [ 1, 2, 3, 3 ],
                     "HarvestMinStack": 5,
                     "HarvestMaxStack": 7,
 					"HarvestItemId": "SativaBud",
