@@ -114,7 +114,7 @@
                 },
                 {
                     "Operation": "Append",
-                    "Target": ["Fields", "Shame", 3],
+                    "Target": ["Fields", "Shane", 3],
                     "Value": "IndicaBud SativaBud PineappleExpress BlueDream Gelato Tangie IndicaJoint SativaJoint PineappleExpressJoint BlueDreamJoint GelatoJoint TangieJoint IndicaPackedBong SativaPackedBong PineappleExpressPackedBong BlueDreamPackedBong GelatoPackedBong TangiePackedBong RollingPaper SativaEdible IndicaEdible PineappleExpressEdible BlueDreamEdible GelatoEdible TangieEdible", 
                     "Delimiter": ""
                 },

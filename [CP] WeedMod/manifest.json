@@ -1,8 +1,8 @@
 {
   "Name": "[CP] WeedMod",
   "Author": "Aidan Birmingham",
-  "Version": "1.0.0",
-  "Description": "Adds cannabis crops to Stardew Valley",
+  "Version": "1.0.2",
+  "Description": "Adds weed crops to Stardew Valley",
   "UniqueID": "aidanbirmingham.weedmod.cp",
   "MinimumApiVersion": "4.0.0",
   "UpdateKeys": [],
